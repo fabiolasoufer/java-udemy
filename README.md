@@ -1,4 +1,4 @@
-## Exercícios de Lógica de Programação (Udemy - Professor Nélio Alves) :books::computer: 
+## Exercícios do Curso de Java Completo (Udemy - Professor Nélio Alves) :books::computer: 
 
 ![Badge Status](http://img.shields.io/static/v1?label=STATUS&message=Em%20Desenvolvimento&color=GREEN&style=for-the-badge)
 
